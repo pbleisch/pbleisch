@@ -1,4 +1,4 @@
-I love to solve problems with exceptional software. I want to make developers' lives better, easier, or just more awesome.
+I make things that help other people make things.
 
 My interests revolve around content management, revision control, data systems and the like.
 
